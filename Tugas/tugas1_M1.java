@@ -1,3 +1,4 @@
+package Tugas;
 import java.util.Scanner;
 
 public class tugas1_M1 {
@@ -18,7 +19,7 @@ public class tugas1_M1 {
 
             String usernameBenar = "Admin" + NIM;
             String passwordBenar = "Password" + NIM;
-
+            
             System.out.print("Masukkan username: ");
             String username = input.nextLine();
             System.out.print("Masukkan password: ");
