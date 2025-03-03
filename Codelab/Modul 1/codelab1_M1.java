@@ -34,6 +34,6 @@ public class codelab1_M1 {
         System.out.printf("Nama         : %s%n", nama);
         System.out.printf("Jenis Kelamin: %s%n", gender);
         System.out.printf("Umur         : %d tahun%n", (umur > 0) ? umur : 0);
-        System.out.println("=== ================ ===\n");
+        System.out.println("=== ================ ===\n"); 
     }
 }
