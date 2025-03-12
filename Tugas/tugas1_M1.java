@@ -2,7 +2,7 @@ package Tugas;
 import java.util.Scanner;
 
 public class tugas1_M1 {
-    @SuppressWarnings("ConvertToTryWithResources")
+    // @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
