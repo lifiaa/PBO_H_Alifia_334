@@ -52,5 +52,5 @@ public class Mainn{
 
         rek1.tampilkanInfo();
         rek2.tampilkanInfo();
-    }
-}
+    }}
+    

@@ -1,5 +1,6 @@
-import java.util.Scanner;
+
 import java.time.LocalDateTime;
+import java.util.Scanner;
 
 public class codelab1_M1 {
     public static void main(String[] args) {
